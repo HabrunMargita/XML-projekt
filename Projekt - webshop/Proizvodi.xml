@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webshop>
+    <proizvod category="CD">
+        <CD id="1">
+            <naziv>Best of</naziv>
+            <godina_izdavanja>2020.</godina_izdavanja>
+            <cijena>99.90 kn</cijena>
+            <cijena_popust>69.90 kn</cijena_popust>
+        </CD>
+        <CD id="2">
+            <naziv>Tijelo</naziv>
+            <godina_izdavanja>2016.</godina_izdavanja>
+            <cijena>99.90 kn</cijena>
+            <cijena_popust>69.90 kn</cijena_popust>
+        </CD>
+        <CD id="3">
+            <naziv>Vertigo</naziv>
+            <godina_izdavanja>2010.</godina_izdavanja>
+            <cijena>99.90 kn</cijena>
+            <cijena_popust>69.90 kn</cijena_popust>
+        </CD>
+        <CD id="4">
+            <naziv>Pod pritiskom</naziv>
+            <godina_izdavanja>2008.</godina_izdavanja>
+            <cijena>99.90 kn</cijena>
+            <cijena_popust>69.90 kn</cijena_popust>
+        </CD>
+    </proizvod>
+
+    <proizvod category="merch">
+        <merch id="1">
+            <naziv>XOXO majica</naziv>
+            <opis>Muška crna majica</opis>
+            <cijena>89.90 kn</cijena>
+        </merch>
+        <merch id="2">
+            <naziv>Tijelo majica</naziv>
+            <opis>Ženska crna majica</opis>
+            <cijena>89.90 kn</cijena>
+        </merch>
+        <merch id="3">
+            <naziv>XOXO majica</naziv>
+            <opis>Muška bijela majica</opis>
+            <cijena>89.90 kn</cijena>
+        </merch>
+        <merch id="4">
+            <naziv>XOXO majica</naziv>
+            <opis>Ženska bijela majica</opis>
+            <cijena>89.90 kn</cijena>
+        </merch>
+        <merch id="5">
+            <naziv>XOXO hoodie</naziv>
+            <opis>Unisex crna hoodica</opis>
+            <cijena>119.90 kn</cijena>
+        </merch>
+        <merch id="6">
+            <naziv>XOXO torba 1</naziv>
+            <opis>Crna platnena torba</opis>
+            <cijena>29.90 kn</cijena>
+        </merch>
+        <merch id="7">
+            <naziv>XOXO torba 2</naziv>
+            <opis>Crna platnena torba</opis>
+            <cijena>59.90 kn</cijena>
+        </merch>
+    </proizvod>
+    <proizvod category="knjige">
+        <knjiga id="1">
+            <naziv>Sve, samo ne romantika</naziv>
+            <opis>Biografija benda</opis>
+            <cijena>149.90</cijena>
+        </knjiga>
+    </proizvod>
+</webshop>
